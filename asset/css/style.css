@@ -1,0 +1,13 @@
+/* Custom styles for the page */
+header {
+    padding: 3rem 0;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: 3rem;
+}
